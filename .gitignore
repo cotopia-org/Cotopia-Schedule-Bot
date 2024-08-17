@@ -1,0 +1,16 @@
+.venv
+.env
+notes.md
+__pycache__
+*.db
+logs/
+.DS_Store
+
+#################### VisualStudioCode.gitignore ####################
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
